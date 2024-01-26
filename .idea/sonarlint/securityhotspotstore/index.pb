@@ -5,3 +5,35 @@
 tsconfig.json,6/1/61ebb9fd6e8cf9082658121d5d81e297791dacd0
 <
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
+>
+.eslintrc.json,7/1/71c20a341bfe32aa5cd5b4384e94f942bab6a7d3
+A
+public/vercel.svg,0/c/0c3567b3146da917779092b6952cf7aa844d3c76
+B
+tailwind.config.ts,5/2/52c961376029165b06e7861b1dc68c3b2455eeff
+B
+src/app/layout.tsx,c/f/cfb47de6ae0cae626eed46461300112ef521d977
+C
+src/app/globals.css,d/a/da1d6f21d01d0f36b5501dffcf7fd160ffcb290d
+?
+public/next.svg,0/f/0f0d3de08f3cde5481ae7a36082cdc12c93b0f89
+n
+>src/components/atoms/AnimatedTypography/AnimatedTypography.tsx,0/4/042f0d94e5c878245b9784dca56c8df2848127d8
+R
+"src/components/atoms/Card/Card.tsx,7/1/718cdee80b83617c587b961d362319b78e3ddc99
+R
+"src/components/atoms/Card/Card.css,4/f/4f681f4aea41e0bbf2aedd619998187c9829efef
+h
+8src/components/organisms/BossDodgeCard/BossDodgeCard.tsx,9/e/9e28b26f2b21e6bf0d4607412283746c317ae1d5
+V
+&src/components/templates/home/Home.tsx,5/e/5ef61046509380b67c4d2de7be99eafad93f70e5
+Z
+*src/components/templates/home/Homepage.css,1/c/1cfe48bae64d41c262118ccc7b7762fe957349b5
+^
+.src/components/templates/homepage/Homepage.tsx,e/d/ed909f0b5a2260171eaaa7fae06ffd17bb3fb649
+^
+.src/components/templates/homepage/Homepage.css,a/3/a3c7e781f18d1d7d842dac041ac33f1810c8a03e
+^
+.src/components/atoms/Background/Background.tsx,3/5/35663d493065d82d1087bed68b4785118846c246
+^
+.src/components/atoms/Background/Background.css,1/2/12f6fb10edbb5b484de4f2fb63024386d6990aeb
