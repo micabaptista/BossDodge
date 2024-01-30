@@ -4,7 +4,7 @@ import {Card} from "@/components/atoms/Card/Card";
 import {AnimatedTypography} from "@/components/atoms/AnimatedTypography/AnimatedTypography";
 
 interface BossDodgeCardProps {
-  text?: string;
+  text: string;
 }
 
 export const BossDodgeCard = ({text}: BossDodgeCardProps) => {
