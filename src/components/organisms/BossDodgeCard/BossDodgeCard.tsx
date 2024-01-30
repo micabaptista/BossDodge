@@ -1,10 +1,17 @@
+'use client';
+
 import {Card} from "@/components/atoms/Card/Card";
 import {AnimatedTypography} from "@/components/atoms/AnimatedTypography/AnimatedTypography";
 
-export const BossDodgeCard = () => {
+interface BossDodgeCardProps {
+  text?: string;
+}
+
+export const BossDodgeCard = ({text}: BossDodgeCardProps) => {
+
   return (
     <Card>
-      <AnimatedTypography></AnimatedTypography>
+      <AnimatedTypography text={text}></AnimatedTypography>
     </Card>
   );
 };
